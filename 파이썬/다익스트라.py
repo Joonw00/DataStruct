@@ -1,3 +1,4 @@
+# 힙을 이용한 기본적인 다익스트라 구현
 import heapq
 import sys
 n = int(sys.stdin.readline())
